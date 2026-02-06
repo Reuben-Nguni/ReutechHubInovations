@@ -10,13 +10,13 @@ const Footer = () => {
             <h5 className="mb-3">ReuTech Hub Innovations</h5>
             <p>Innovation, Connectivity, Security – Empowering Your Digital Future</p>
             <div className="social-links">
-              <a href="#" className="text-light me-3" style={{ textDecoration: 'none' }}>
+              <a href="https://www.facebook.com/ReuTechHub" className="text-light me-3" style={{ textDecoration: 'none' }} target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-facebook-f"></i> Facebook
               </a>
-              <a href="#" className="text-light me-3" style={{ textDecoration: 'none' }}>
+              <a href="https://twitter.com/ReuTechHub" className="text-light me-3" style={{ textDecoration: 'none' }} target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-twitter"></i> Twitter
               </a>
-              <a href="#" className="text-light" style={{ textDecoration: 'none' }}>
+              <a href="https://www.linkedin.com/company/reutechhub" className="text-light" style={{ textDecoration: 'none' }} target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin-in"></i> LinkedIn
               </a>
             </div>
@@ -43,9 +43,9 @@ const Footer = () => {
           </div>
           <div className="col-lg-3 mb-4">
             <h6 className="mb-3">Contact Info</h6>
-            <p><i className="fas fa-map-marker-alt me-2"></i> 123 Tech Street, Innovation City</p>
-            <p><i className="fas fa-phone me-2"></i> +1 (555) 123-4567</p>
-            <p><i className="fas fa-envelope me-2"></i> info@reutechhub.com</p>
+            <p><i className="fas fa-map-marker-alt me-2"></i> Balastone Park, House No. 24 Lusaka</p>
+            <p><i className="fas fa-phone me-2"></i> +260 970067982 / 0769963307</p>
+            <p><i className="fas fa-envelope me-2"></i> ngunireubenjr@gmail.com</p>
           </div>
         </div>
         <hr className="my-4" />
